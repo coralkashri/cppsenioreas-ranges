@@ -1,3 +1,12 @@
+/**
+ * All examples are taken from C++ Senioreas blog
+ * https://cppsenioreas.wordpress.com/
+ *
+ * Examples from:
+ * cpp_senioreas::power_range(r)s_cpp_20
+ * https://cppsenioreas.wordpress.com/2020/11/01/ranges-cpp20/
+ */
+
 #include <iostream>
 #include <vector>
 #include <ranges>
